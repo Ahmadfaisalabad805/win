@@ -1,2 +1,2 @@
-import app_enc.py
+import app_enc
 Main()
