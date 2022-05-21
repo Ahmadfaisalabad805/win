@@ -30,7 +30,8 @@ def runtxt(z):
 
 def notice():
 
-	runtxt("\n        Admin :- Ahmad")	print("")
+	runtxt("\n        Admin :- Ahmad")	
+	print("")
 
 	runtxt("\033[1;32m        Programer :- Faisalabadi")
 
